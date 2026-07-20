@@ -1,0 +1,4 @@
+¿Qué hace esta ruta?
+Esta ruta responde a las solicitudes que llegan a la dirección principal (/) del servidor mediante el método GET. Cuando un usuario accede a esa URL, el servidor envía el mensaje "Servidor funcionando correctamente", indicando que está activo.
+¿Para qué podría servir en una aplicación comunitaria?
+Podría servir como la página principal de una aplicación comunitaria donde los ciudadanos consulten información, conozcan noticias de la comunidad, registren solicitudes, reporten problemas del barrio o accedan a servicios y actividades organizadas por la comunidad.
